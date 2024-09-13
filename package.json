@@ -1,0 +1,30 @@
+{
+  "name": "orma-2024",
+  "version": "1.0.1",
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0",
+    "commitizen": "^4.0.0",
+    "cz-customizable": "^6.3.0",
+    "husky": "^9.1.6",
+    "standard-version": "^9.5.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    }
+  },
+  "cz-customizable": {
+    "path": "./cz-config.js"
+  },
+  "scripts": {
+    "commit": "cz",
+    "changelog": "npx standard-version",
+    "release": "standard-version"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
