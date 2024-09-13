@@ -1,64 +1,51 @@
-# Restrictive License for the Río Magdalena Platform
+Restrictive License for the Río Magdalena Platform
 
-## Version 1.0, September 2024
+Version 1.0, September 2024
 
-### 1. **Preamble**
-The purpose of this license is to restrict the use of the **Río Magdalena Platform** (hereinafter referred to as "the Software") entirely, without express written permission from the Owner. This license prohibits any form of use, reproduction, modification, distribution, or commercialization of the Software.
+1. Preamble The purpose of this license is to restrict the use of the Río Magdalena Platform (hereinafter referred to as "the Software") entirely, without express written permission from the Owner. This license prohibits any form of use, reproduction, modification, distribution, or commercialization of the Software.
 
 By attempting to use or interact with the Software in any way, you agree to comply with all the terms of this license.
 
-### 2. **Definitions**
-- **The Owner** refers to Universidad del Norte.
-- **The Software** refers to the Río Magdalena Platform and any associated files, source code, binaries, documentation, or materials.
-- **You** refers to the individual or entity attempting to use, interact with, or distribute the Software under this license.
+2. Definitions
 
-### 3. **Prohibition on Use**
-**All forms of use of the Software are strictly prohibited** without prior express written consent from the Owner. This includes, but is not limited to:
-- Personal, academic, or research use.
-- Commercial, business, or for-profit use.
-- Any testing, analysis, or interaction with the Software in any form.
+The Owner refers to Universidad del Norte.
+The Software refers to the Río Magdalena Platform and any associated files, source code, binaries, documentation, or materials.
+You refers to the individual or entity attempting to use, interact with, or distribute the Software under this license.
+3. Prohibition on Use All forms of use of the Software are strictly prohibited without prior express written consent from the Owner. This includes, but is not limited to:
 
+Personal, academic, or research use.
+Commercial, business, or for-profit use.
+Any testing, analysis, or interaction with the Software in any form.
 You may not execute, run, or use any part of the Software, either directly or indirectly, without permission.
 
-### 4. **Prohibition on Copying, Distribution, and Modification**
-Without explicit written permission from the Owner, you may **not copy, distribute, sublicense, modify, or create derivative works** based on the Software. The following actions are strictly forbidden:
-- Downloading or reproducing the Software in any form, physical or digital.
-- Sharing, transmitting, or posting the Software on public or private platforms (e.g., GitHub, repositories, websites).
-- Modifying, reverse-engineering, decompiling, or disassembling the Software.
-- Combining the Software with other software products for any purpose.
+4. Prohibition on Copying, Distribution, and Modification Without explicit written permission from the Owner, you may not copy, distribute, sublicense, modify, or create derivative works based on the Software. The following actions are strictly forbidden:
 
-### 5. **Copyright Notice**
-All copies, authorized or otherwise, must display the following copyright notice:
-"Río Magdalena Platform, Copyright © 2024 Uninorte. All rights reserved."
+Downloading or reproducing the Software in any form, physical or digital.
+Sharing, transmitting, or posting the Software on public or private platforms (e.g., GitHub, repositories, websites).
+Modifying, reverse-engineering, decompiling, or disassembling the Software.
+Combining the Software with other software products for any purpose.
+5. Copyright Notice All copies, authorized or otherwise, must display the following copyright notice: "Río Magdalena Platform, Copyright © 2024 Uninorte. All rights reserved."
 
 Failure to include this notice in any materials related to the Software is a violation of this license.
 
-### 6. **Permission Request Process**
-To request permission for any of the restricted uses mentioned in this license, you must contact the Owner directly at lcrojano@gmail.com and obtain explicit written consent. All requests are subject to the Owner’s approval.
+6. Permission Request Process To request permission for any of the restricted uses mentioned in this license, you must contact the Owner directly at lcrojano@gmail.com and obtain explicit written consent. All requests are subject to the Owner’s approval.
 
 No action should be taken with the Software unless formal permission is granted in writing. The Owner reserves the right to deny any request for any reason.
 
-### 7. **Disclaimer of Warranty**
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+7. Disclaimer of Warranty THE SOFTWARE IS PROVIDED "AS IS," WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
 THE OWNER SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE, EVEN IF PERMISSION HAS BEEN GRANTED.
 
-### 8. **Termination**
-This license will **automatically terminate** if you attempt to use, copy, modify, or distribute the Software without permission. Upon termination, you must immediately cease all interactions with the Software and destroy all copies in your possession.
+8. Termination This license will automatically terminate if you attempt to use, copy, modify, or distribute the Software without permission. Upon termination, you must immediately cease all interactions with the Software and destroy all copies in your possession.
 
 The Owner reserves the right to enforce all applicable legal remedies for any unauthorized use or breach of this license.
 
-### 9. **Jurisdiction**
-This license shall be governed by the laws of Colombia. Any disputes arising from this license will be resolved exclusively in the courts of Colombia.
+9. Jurisdiction This license shall be governed by the laws of Colombia. Any disputes arising from this license will be resolved exclusively in the courts of Colombia.
 
-### 10. **Severability**
-If any provision of this license is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+10. Severability If any provision of this license is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
-### 11. **Contact Information**
-For any inquiries, permissions, or other matters, please contact the Owner at:
-lcrojano@gmail.com
+11. Contact Information For any inquiries, permissions, or other matters, please contact the Owner at: lcrojano@gmail.com
 
----
-
-## **Important Notice**:  
+Important Notice:
 This software is restricted for use, copying, distribution, or modification in any form without prior written permission from the Owner. Unauthorized actions will result in immediate termination of any granted rights and possible legal consequences.
+
